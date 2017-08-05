@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="No55compareStrings.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="No158anagram.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="No13strStrKMP.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="No171anagrams.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="No79longestCommonSubstring.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="No78longestCommonPrefix.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="No54atoi.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="No172removeElement.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="No138subarraySum.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="No100removeDuplicates.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="No64mergeSortedArray.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="No56twoSum.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="No50productExcludeItself.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="No189firstMissingPositive.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="No59threeSumClosest.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="No57threeSum.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="No101removeDuplicates.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="No6mergeSortedArray.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="No139subarraySumClosest.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="No141sqrt.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="No60searchInsert.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="No28searchMatrix.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="No31partitionArray.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="No14binarySearch.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="No159findMin.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="No75findPeak.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="No74findFirstBadVersion.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="No62search.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="No61searchRange.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="No183woodCut.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="No160findMin2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="No63search2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="No38searchMatrix2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="No181bitSwapRequired.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="No142checkPowerOf2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="No2trailingZeros.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="No179updateBits.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="No163numTrees.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="No140fastPower.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="No180binaryRepresentation.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="No82singleNumber.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="No46majorityNumber.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="No187canCompleteCircuit.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="No184largestNumber.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="No182DeleteDigits.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="No116canJump.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="No52nextPermutation.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="No174removeNthFromEnd.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="No165mergeTwoLists.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="No112deleteDuplicates.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
