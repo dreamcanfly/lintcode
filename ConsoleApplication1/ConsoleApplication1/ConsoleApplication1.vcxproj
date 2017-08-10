@@ -199,6 +199,7 @@
     <ClCompile Include="No78longestCommonPrefix.cpp" />
     <ClCompile Include="No79longestCommonSubstring.cpp" />
     <ClCompile Include="No82singleNumber.cpp" />
+    <ClCompile Include="No96partition.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
