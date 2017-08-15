@@ -179,6 +179,7 @@
     <ClCompile Include="No28searchMatrix.cpp" />
     <ClCompile Include="No2trailingZeros.cpp" />
     <ClCompile Include="No31partitionArray.cpp" />
+    <ClCompile Include="No35reverse.cpp" />
     <ClCompile Include="No38searchMatrix2.cpp" />
     <ClCompile Include="No46majorityNumber.cpp" />
     <ClCompile Include="No50productExcludeItself.cpp" />
