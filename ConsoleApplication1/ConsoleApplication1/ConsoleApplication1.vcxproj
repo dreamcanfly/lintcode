@@ -166,6 +166,7 @@
     <ClCompile Include="No160findMin2.cpp" />
     <ClCompile Include="No163numTrees.cpp" />
     <ClCompile Include="No165mergeTwoLists.cpp" />
+    <ClCompile Include="No170rotateRight.cpp" />
     <ClCompile Include="No171anagrams.cpp" />
     <ClCompile Include="No172removeElement.cpp" />
     <ClCompile Include="No174removeNthFromEnd.cpp" />

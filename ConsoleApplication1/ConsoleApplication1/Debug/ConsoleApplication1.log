@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 ﻿  No106sortedListToBST.cpp
   ConsoleApplication1.vcxproj -> C:\Users\wangye\Documents\我的代码\lintcode\ConsoleApplication1\Debug\ConsoleApplication1.exe
   ConsoleApplication1.vcxproj -> C:\Users\wangye\Documents\我的代码\lintcode\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)
+=======
+﻿  stdafx.cpp
+  No170rotateRight.cpp
+>>>>>>> be73df08b685d5c69ca5422fcdaddeeb22814fa0
