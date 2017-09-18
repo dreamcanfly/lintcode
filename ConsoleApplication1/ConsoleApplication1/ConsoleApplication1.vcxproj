@@ -151,6 +151,7 @@
   <ItemGroup>
     <ClCompile Include="No100removeDuplicates.cpp" />
     <ClCompile Include="No101removeDuplicates.cpp" />
+    <ClCompile Include="No106sortedListToBST.cpp" />
     <ClCompile Include="No112deleteDuplicates.cpp" />
     <ClCompile Include="No116canJump.cpp" />
     <ClCompile Include="No138subarraySum.cpp" />
