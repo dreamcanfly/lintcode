@@ -188,5 +188,11 @@
     <ClCompile Include="No170rotateRight.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="No106sortedListToBST.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="No105copyRandomList.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

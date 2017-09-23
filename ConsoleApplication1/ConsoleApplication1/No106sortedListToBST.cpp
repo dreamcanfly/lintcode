@@ -86,11 +86,11 @@ ListNode* ArrToList(vector<int> arr)
 	return root;
 }
 
-int main()
-{
-	vector<int> Arr = { -1,0,1,3 };
-	ListNode* root = ArrToList(Arr);
-	Solution s;
-	s.sortedListToBST(root);
-	return 0;
-}
+//int main()
+//{
+//	vector<int> Arr = { -1,0,1,3 };
+//	ListNode* root = ArrToList(Arr);
+//	Solution s;
+//	s.sortedListToBST(root);
+//	return 0;
+//}
