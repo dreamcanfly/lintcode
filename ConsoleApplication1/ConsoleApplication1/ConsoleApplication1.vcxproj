@@ -151,6 +151,7 @@
   <ItemGroup>
     <ClCompile Include="No100removeDuplicates.cpp" />
     <ClCompile Include="No101removeDuplicates.cpp" />
+    <ClCompile Include="No102hasCycle.cpp" />
     <ClCompile Include="No105copyRandomList.cpp" />
     <ClCompile Include="No106sortedListToBST.cpp" />
     <ClCompile Include="No112deleteDuplicates.cpp" />
@@ -204,6 +205,8 @@
     <ClCompile Include="No79longestCommonSubstring.cpp" />
     <ClCompile Include="No82singleNumber.cpp" />
     <ClCompile Include="No96partition.cpp" />
+    <ClCompile Include="No98sortList.cpp" />
+    <ClCompile Include="No99reorderList.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>

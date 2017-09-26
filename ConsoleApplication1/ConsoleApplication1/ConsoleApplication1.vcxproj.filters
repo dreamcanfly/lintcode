@@ -194,5 +194,14 @@
     <ClCompile Include="No105copyRandomList.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="No102hasCycle.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="No99reorderList.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="No98sortList.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
