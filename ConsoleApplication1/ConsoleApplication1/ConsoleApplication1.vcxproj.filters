@@ -203,5 +203,11 @@
     <ClCompile Include="No98sortList.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="No97maxDepth.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="No93isBalanced.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

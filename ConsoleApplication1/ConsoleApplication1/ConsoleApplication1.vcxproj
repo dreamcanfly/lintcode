@@ -204,7 +204,9 @@
     <ClCompile Include="No78longestCommonPrefix.cpp" />
     <ClCompile Include="No79longestCommonSubstring.cpp" />
     <ClCompile Include="No82singleNumber.cpp" />
+    <ClCompile Include="No93isBalanced.cpp" />
     <ClCompile Include="No96partition.cpp" />
+    <ClCompile Include="No97maxDepth.cpp" />
     <ClCompile Include="No98sortList.cpp" />
     <ClCompile Include="No99reorderList.cpp" />
     <ClCompile Include="stdafx.cpp">
