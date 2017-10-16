@@ -233,5 +233,20 @@
     <ClCompile Include="No87removeNode.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="No152combine.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="No135combinationSum.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="No127topSort.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="No515minCost.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="No516minCostII.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
