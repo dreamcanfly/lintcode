@@ -157,6 +157,8 @@
     <ClCompile Include="No112deleteDuplicates.cpp" />
     <ClCompile Include="No116canJump.cpp" />
     <ClCompile Include="No11searchRange.cpp" />
+    <ClCompile Include="No120ladderLength.cpp" />
+    <ClCompile Include="No121findLadders.cpp" />
     <ClCompile Include="No127topSort.cpp" />
     <ClCompile Include="No135combinationSum.cpp" />
     <ClCompile Include="No138subarraySum.cpp" />
@@ -169,14 +171,17 @@
     <ClCompile Include="No152combine.cpp" />
     <ClCompile Include="No158anagram.cpp" />
     <ClCompile Include="No159findMin.cpp" />
+    <ClCompile Include="No15permute.cpp" />
     <ClCompile Include="No160findMin2.cpp" />
     <ClCompile Include="No163numTrees.cpp" />
     <ClCompile Include="No165mergeTwoLists.cpp" />
+    <ClCompile Include="No16permuteUnique.cpp" />
     <ClCompile Include="No170rotateRight.cpp" />
     <ClCompile Include="No171anagrams.cpp" />
     <ClCompile Include="No172removeElement.cpp" />
     <ClCompile Include="No174removeNthFromEnd.cpp" />
     <ClCompile Include="No179updateBits.cpp" />
+    <ClCompile Include="No17subsets.cpp" />
     <ClCompile Include="No180binaryRepresentation.cpp" />
     <ClCompile Include="No181bitSwapRequired.cpp" />
     <ClCompile Include="No182DeleteDigits.cpp" />
@@ -184,9 +189,11 @@
     <ClCompile Include="No184largestNumber.cpp" />
     <ClCompile Include="No187canCompleteCircuit.cpp" />
     <ClCompile Include="No189firstMissingPositive.cpp" />
+    <ClCompile Include="No18subsetsWithDup.cpp" />
     <ClCompile Include="No28searchMatrix.cpp" />
     <ClCompile Include="No2trailingZeros.cpp" />
     <ClCompile Include="No31partitionArray.cpp" />
+    <ClCompile Include="No33solveNQueens.cpp" />
     <ClCompile Include="No35reverse.cpp" />
     <ClCompile Include="No38searchMatrix2.cpp" />
     <ClCompile Include="No46majorityNumber.cpp" />
@@ -210,6 +217,7 @@
     <ClCompile Include="No73buildTree.cpp" />
     <ClCompile Include="No74findFirstBadVersion.cpp" />
     <ClCompile Include="No75findPeak.cpp" />
+    <ClCompile Include="No77longestCommonSubsequence.cpp" />
     <ClCompile Include="No78longestCommonPrefix.cpp" />
     <ClCompile Include="No79longestCommonSubstring.cpp" />
     <ClCompile Include="No7serialize.cpp" />

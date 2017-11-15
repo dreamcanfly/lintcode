@@ -248,5 +248,29 @@
     <ClCompile Include="No516minCostII.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="No120ladderLength.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="No33solveNQueens.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="No77longestCommonSubsequence.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="No18subsetsWithDup.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="No17subsets.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="No15permute.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="No16permuteUnique.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="No121findLadders.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

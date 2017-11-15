@@ -42,10 +42,10 @@ public:
 };
 
 
-int main()
-{
-	vector<vector<int>> cost = { {14,2,11},{11,14,5},{14,3,10} };
-	Solution s;
-	cout << s.minCostII(cost) << endl;
-	return 0;
-}
+//int main()
+//{
+//	vector<vector<int>> cost = { {14,2,11},{11,14,5},{14,3,10} };
+//	Solution s;
+//	cout << s.minCostII(cost) << endl;
+//	return 0;
+//}
